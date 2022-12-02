@@ -1,0 +1,11 @@
+AdamW (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.99, 0.999)
+    capturable: False
+    eps: 1e-08
+    foreach: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0.05
+)
